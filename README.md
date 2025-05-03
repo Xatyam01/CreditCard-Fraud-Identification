@@ -8,8 +8,8 @@ This repository contains code for training and evaluating a machine learning mod
 
 - `main.py` or `.ipynb`: Code to train the model
 - `fraud_detection_model.pkl`: Trained model saved using joblib/pickle
-- `creditcard.csv`: Dataset used for training and testing
 - `.gitignore`, `README.md`: Project configs and documentation
+-  `creditcard.csv`: Dataset used from offical Kaggle website, (creditcard.csv)
 
 ---
 
